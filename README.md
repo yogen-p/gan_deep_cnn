@@ -1,6 +1,6 @@
 # gan_deep_cnn
 
-General Adverserial Net, a deep CNN that follows a zero-sum game where the loss of one is gain for another.
+General Adverserial Net, a deep CNN that follows a zero-sum game where the loss of one is gain for another. The Generator tries to fool the Discriminator in order to generate data which is more closer to the real one and the Discriminator tries to accurately differentiate between the real and the fake data. More information [here](https://en.wikipedia.org/wiki/Generative_adversarial_network "Wiki").
 
 ### Technologies
 * Python
